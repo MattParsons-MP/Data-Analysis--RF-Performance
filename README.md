@@ -28,6 +28,7 @@
 
 <br />
 
+
 ### Preparation
 
 #### Data Sources
@@ -44,6 +45,7 @@
 3.  Identified methods to obscure GPS data prior to publishing.
 
 <br />
+
 
 ### Process
 
@@ -78,6 +80,8 @@ Analysis involved exploring the data and visualisations to answer key questions
 
 - Are there any standout observations?
 
+<br />
+
 #### Conclusion & Findings
 
 ##### Aircraft Turns 
@@ -91,6 +95,7 @@ Analysis involved exploring the data and visualisations to answer key questions
 - Lower current draw during descent phases may have contributed to better receiver performance due to reduced system noise, interference and power drain.
 
 <br />
+
 
 ### Share
 
@@ -108,6 +113,7 @@ Analysis involved exploring the data and visualisations to answer key questions
 
 <br />
 
+
 ### Recommendations
 
 #### Operational
@@ -123,6 +129,7 @@ Analysis involved exploring the data and visualisations to answer key questions
 - Investigate if reduced power consumption during descent correlates with better RF performance and adapt procedures accordingly
 
 <br />
+
 
 ### Conclusion
 
