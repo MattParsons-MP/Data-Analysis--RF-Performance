@@ -11,7 +11,7 @@
 - [Recommendations](#recommendations)
 - [Conclusion](#conclusion)
 
-<br />
+---
 
 
 ### Project Overview
@@ -25,8 +25,8 @@
 
 #### Desired Outcome
 - Identify and address factors affecting telemetry performance, aiming to enhance range and data integrity under diverse flight conditions.
-
-<br />
+  
+---
 
 
 ### Preparation
@@ -44,7 +44,7 @@
 
 3.  Identified methods to obscure GPS data prior to publishing.
 
-<br />
+---
 
 
 ### Process
@@ -67,7 +67,7 @@
 
 5.  Split GPS data into seperate fields to utilise Geospatial mapping visualisaton
 
-<br />
+---
 
 
 ### Analysis
@@ -94,7 +94,7 @@ Analysis involved exploring the data and visualisations to answer key questions
 ##### Power Consumption 
 - Lower current draw during descent phases may have contributed to better receiver performance due to reduced system noise, interference and power drain.
 
-<br />
+---
 
 
 ### Share
@@ -111,7 +111,7 @@ Analysis involved exploring the data and visualisations to answer key questions
 ![Linkedin copy](https://github.com/user-attachments/assets/8dc025cf-1bf1-4ec4-b2c2-de7d44c4cb9d)
 
 
-<br />
+---
 
 
 ### Recommendations
@@ -128,7 +128,7 @@ Analysis involved exploring the data and visualisations to answer key questions
 
 - Investigate if reduced power consumption during descent correlates with better RF performance and adapt procedures accordingly
 
-<br />
+---
 
 
 ### Conclusion
