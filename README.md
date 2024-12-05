@@ -8,7 +8,7 @@
 - [Process](#process)
 - [Analysis](#analysis)
 - [Share](#share)
-- [Recommendations](#recommendations)
+- [Recommendations](#recommendations/options)
 - [Conclusion](#conclusion)
 
 <br />
