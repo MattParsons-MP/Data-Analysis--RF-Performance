@@ -8,7 +8,7 @@
 - [Process](#process)
 - [Analysis](#analysis)
 - [Share](#share)
-- [Recommendations](#recommendations/options)
+- [Recommendations](#recommendations)
 - [Conclusion](#conclusion)
 
 <br />
@@ -108,7 +108,7 @@ Analysis involved exploring the data and visualisations to answer key questions
 
 <br />
 
-### Recommendations/Options
+### Recommendations
 
 #### Operational
 
